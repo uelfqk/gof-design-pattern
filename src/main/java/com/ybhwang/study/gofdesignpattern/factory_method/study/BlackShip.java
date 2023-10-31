@@ -1,4 +1,4 @@
-package com.ybhwang.study.gofdesignpattern.factory_method;
+package com.ybhwang.study.gofdesignpattern.factory_method.study;
 
 public class BlackShip extends Ship {
     public BlackShip(String name) {

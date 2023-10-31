@@ -1,5 +1,6 @@
 package com.ybhwang.study.gofdesignpattern.factory_method;
 
+import com.ybhwang.study.gofdesignpattern.factory_method.study.*;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
